@@ -1,8 +1,0 @@
-<?php
-$variable_cookies = " Bella";
-if (isset($variable_cookies)) {
-    echo 'Variable cookiesnya "$variable_cookies"_nilainya adalah' .$variable_cookies;
-} else {
-    echo "Variable cookies belum diterapkan";
-}
-?>
